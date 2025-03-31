@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment9\\Assignment9.csproj|c:\\users\\wjd47\\code\\prog2500\\jeremy\u0027sassignments\\assignment9\\assignment9\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment9\\Assignment9.csproj|solutionrelative:assignment9\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment9\\Assignment9.csproj|C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment9\\assignment9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment9\\Assignment9.csproj|solutionrelative:assignment9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment9\\Assignment9.csproj|C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment9\\assignment9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment9\\Assignment9.csproj|solutionrelative:assignment9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment9\\Assignment9.csproj|C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment9\\assignment9\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment9\\Assignment9.csproj|solutionrelative:assignment9\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment9\\Assignment9.csproj|C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment9\\assignment9\\commandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment9\\Assignment9.csproj|solutionrelative:assignment9\\commandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment9\\Assignment9.csproj|C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment9\\assignment9\\imagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment9\\Assignment9.csproj|solutionrelative:assignment9\\imagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment9\\Assignment9.csproj|C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment9\\assignment9\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment9\\Assignment9.csproj|solutionrelative:assignment9\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment9\\Assignment9\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "Assignment9\\SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment9\\Assignment9\\SQLQuery1.sql",
+              "RelativeToolTip": "Assignment9\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-26T01:04:34.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImageManager.cs",
+              "DocumentMoniker": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment9\\Assignment9\\ImageManager.cs",
+              "RelativeDocumentMoniker": "Assignment9\\ImageManager.cs",
+              "ToolTip": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment9\\Assignment9\\ImageManager.cs",
+              "RelativeToolTip": "Assignment9\\ImageManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T01:04:22.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment9\\Assignment9\\CommandHandler.cs",
+              "RelativeDocumentMoniker": "Assignment9\\CommandHandler.cs",
+              "ToolTip": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment9\\Assignment9\\CommandHandler.cs",
+              "RelativeToolTip": "Assignment9\\CommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T01:04:17.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment9\\Assignment9\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment9\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment9\\Assignment9\\MainWindow.xaml",
+              "RelativeToolTip": "Assignment9\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T00:57:18.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBManager.cs",
+              "DocumentMoniker": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment9\\Assignment9\\DBManager.cs",
+              "RelativeDocumentMoniker": "Assignment9\\DBManager.cs",
+              "ToolTip": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment9\\Assignment9\\DBManager.cs",
+              "RelativeToolTip": "Assignment9\\DBManager.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAIwH0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T00:53:09.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment9\\Assignment9\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment9\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment9\\Assignment9\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Assignment9\\MainWindow.xaml.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAArwO4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:34:26.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment9\\Assignment9\\Utility.cs",
+              "RelativeDocumentMoniker": "Assignment9\\Utility.cs",
+              "ToolTip": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment9\\Assignment9\\Utility.cs",
+              "RelativeToolTip": "Assignment9\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:34:20.004Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
